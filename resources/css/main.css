@@ -1,5 +1,5 @@
 body {
-    background-color: darkslategray;
+    background-color: lightslategray;
 }
 
 header {
@@ -15,11 +15,13 @@ header {
 article {
     position: relative;
     top:100px;
+    text-align: center;
 }
 
-figure {
+figure img{
     border: solid 1px black;
-    padding:2%;
+    padding: 10px;
     height: 320px;
     width: 320px;
+    overflow: visible;
 }
