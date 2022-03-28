@@ -1,0 +1,25 @@
+body {
+    background-color: darkslategray;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+article {
+    position: relative;
+    top:100px;
+}
+
+figure {
+    border: solid 1px black;
+    padding:2%;
+    height: 320px;
+    width: 320px;
+}
