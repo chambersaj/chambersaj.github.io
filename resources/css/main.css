@@ -21,6 +21,7 @@ article {
     width:90%;
     flex-direction: column;
     align-content: center;
+    align-self:center;
 }
 
 article p {
