@@ -16,12 +16,15 @@ article {
     position: relative;
     top:100px;
     text-align: center;
+    display: flex;
+    width:90%;
 }
 
 figure img{
     border: solid 1px black;
     padding: 10px;
-    height: 320px;
-    width: 320px;
+    height: auto;
+    width: 100%;
     overflow: visible;
+    align-content: center;
 }
